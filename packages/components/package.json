@@ -5,6 +5,7 @@
   "author": "thong.nguyen6@mservice.com.vn <thong.nguyen6@mservice.com.vn>",
   "homepage": "https://github.com/NguyenLeHoangThong/lerna-test#readme",
   "license": "ISC",
+  "private": false,
   "main": "components.js",
   "directories": {
     "lib": "lib"
