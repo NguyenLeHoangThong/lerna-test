@@ -3,5 +3,5 @@
 module.exports = components;
 
 function components() {
-  return <button>Create components button 12345</button>;
+  return <button>Create components button 123456</button>;
 }
