@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "@thongnguyen02/components",
   "version": "1.4.0",
   "description": "> TODO: description",
   "author": "thong.nguyen6@mservice.com.vn <thong.nguyen6@mservice.com.vn>",
@@ -7,8 +7,7 @@
   "license": "ISC",
   "main": "components.js",
   "directories": {
-    "lib": "lib",
-    "test": "__tests__"
+    "lib": "lib"
   },
   "files": [
     "lib"
@@ -22,6 +21,5 @@
   },
   "bugs": {
     "url": "https://github.com/NguyenLeHoangThong/lerna-test/issues"
-  },
-  "gitHead": "d1c934e4e8906b57f1d98693ac6287436d801c66"
+  }
 }
