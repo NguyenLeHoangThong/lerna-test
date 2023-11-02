@@ -3,5 +3,5 @@
 module.exports = components;
 
 function components() {
-  return <button>This is the test components buttons</button>;
+  return <button style={{ color: 'red' }}>This is the test components buttons</button>;
 }
